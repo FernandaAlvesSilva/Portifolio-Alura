@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/296a4c28-94ae-4a42-9066-524ea6a12810)
 
 
 Durante o curso na Alura, desenvolvi um portfólio utilizando as linguagens de marcação HTML e CSS. O projeto foi criado com o objetivo de apresentar minhas habilidades e experiências como desenvolvedora Front-end, proporcionando uma navegação intuitiva e uma aparência moderna.
@@ -22,3 +23,7 @@ Os estilos CSS foram aplicados para conferir uma identidade visual ao portfólio
 Paleta de Cores: Tons neutros e elegantes foram escolhidos para transmitir profissionalismo.
 Tipografia: Fontes modernas e legíveis foram selecionadas, proporcionando uma leitura agradável.
 Layout Responsivo: O design foi adaptado para diferentes dispositivos, garantindo uma boa experiência tanto em desktops quanto em dispositivos móveis.
+
+Link para ver o projeto: https://portifolio-alura-drab-delta.vercel.app/
+
+
