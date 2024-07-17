@@ -1,4 +1,5 @@
-Descrição do Portfólio Desenvolvido na Alura
+#Descrição do Portfólio Desenvolvido na Alura
+
 Durante o curso na Alura, desenvolvi um portfólio utilizando as linguagens de marcação HTML e CSS. O projeto foi criado com o objetivo de apresentar minhas habilidades e experiências como desenvolvedora Front-end, proporcionando uma navegação intuitiva e uma aparência moderna.
 
 Estrutura HTML
